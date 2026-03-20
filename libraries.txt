@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ThingSpeak
+WiFi
+Adafruit GFX Library
+Adafruit ST7735 and ST7789 Library
+Keypad
+TFT_eSPI
+DHT sensor library
+DHT11
